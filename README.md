@@ -112,7 +112,3 @@ This project demonstrates how Python and Power BI can be combined to perform bot
 * Enhance dashboard interactivity with filters and drill-through pages
 
 ---
-
-## 👤 Author
-
-Your Name
