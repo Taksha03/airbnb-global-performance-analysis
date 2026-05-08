@@ -28,10 +28,12 @@ The analysis focuses on uncovering pricing trends, neighborhood dynamics, host g
 ## 📂 Project Structure
 
 ```text id="tqtl83"
+## 📂 Project Structure
+
 airbnb-data-analysis/
 │
 ├── airbnb.ipynb
-├── cleaned_airbnb_listings.csv
+├── Screenshot 2026-05-07 190007.png
 ├── Screenshot 2026-05-07 190044.png
 └── README.md
 ```
